@@ -15,8 +15,8 @@
     "semantic-release": "semantic-release"
   },
   "devDependencies": {
-    "@types/jest": "25.1.4",
-    "jest": "25.1.0",
+    "@types/jest": "25.2.3",
+    "jest": "25.5.4",
     "ts-jest": "25.2.1",
     "typescript": "3.8.3",
     "semantic-release": "17.0.4"
